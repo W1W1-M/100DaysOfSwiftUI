@@ -1,0 +1,9 @@
+[submodule "WeSplit"]
+	path = WeSplit
+	url = /WeSplit
+[submodule "Convertio"]
+	path = Convertio
+	url = /Convertio
+[submodule "GuessTheFlag"]
+	path = GuessTheFlag
+	url = /GuessTheFlag

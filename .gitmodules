@@ -1,9 +1,9 @@
 [submodule "WeSplit"]
 	path = WeSplit
-	url = /WeSplit
+	url = https://github.com/W1W1-M/WeSplit
 [submodule "Convertio"]
 	path = Convertio
-	url = /Convertio
+	url = https://github.com/W1W1-M/Convertio
 [submodule "GuessTheFlag"]
 	path = GuessTheFlag
-	url = /GuessTheFlag
+	url = https://github.com/W1W1-M/GuessTheFlag

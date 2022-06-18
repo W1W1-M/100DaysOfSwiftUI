@@ -7,3 +7,6 @@
 [submodule "GuessTheFlag"]
 	path = GuessTheFlag
 	url = https://github.com/W1W1-M/GuessTheFlag
+[submodule "RockPaperScissors"]
+	path = RockPaperScissors
+	url = https://github.com/W1W1-M/RockPaperScissors

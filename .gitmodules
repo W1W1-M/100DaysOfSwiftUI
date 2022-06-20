@@ -10,3 +10,6 @@
 [submodule "RockPaperScissors"]
 	path = RockPaperScissors
 	url = https://github.com/W1W1-M/RockPaperScissors
+[submodule "BetterRest"]
+	path = BetterRest
+	url = https://github.com/W1W1-M/BetterRest
